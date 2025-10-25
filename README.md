@@ -35,7 +35,7 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
  <li>Click on <b>Code</b> and copy the <b>web URL</b> of your forked repository.</li>
  <li>Open terminal on your local machine.</li>
  <li>Run this command to clone the repo:</li>
-<pre><code>git clone https://github.com/your-username/HTF25-Team-414.git</code></pre>
+<pre><code>git clone https://github.com/vemulasukrit/HTF25-Team-414.git</code></pre>
 </ul>
 </details>
 
